@@ -1,0 +1,6 @@
+Flask==2.0.2
+PyJWT==2.4.0
+requests==2.25.1
+
+pdfkit
+cryptography
